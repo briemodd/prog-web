@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <title>INTRO: Malvadeza</title>
+</head>
+<body>
+    <div class="container-fluid border bg-dark text-white">
+        <h1>Introduzindo artistas brasileiros para não fãs</h1>
+        <p>Nos tempos atuais, muitos jovens não são acostumados e nem um pouco familiarizados a escutar artistas nacionais. Muito se discute sobre os motivos que levam à falta de interesse de adolescentes em composições brasileiras, entretanto, o intuito dessa página não é discutir sobre os reais motivos desse "Complexo de Vira-Lata" de alguns, e sim dar a oportunidade de conhecimento à artistas brasileiros pouco conhecidos que poderão talvez chamar a sua atenção. Vamos começar introduzindo uma das recentes jovens artistas no cenário do trap/rap nacional.</p>
+        <h3>Conhece a Slipmami? Aka Malvadeza</h3>
+        <p>Conhece a aka Malvadeza(@slipmami)?
+            <br> Natural da Vila Urussaí, Duque de Caxias (RJ), ela também é conhecida como “trem balinha da v.u.” ou “malvadeza”. Mas ficou primeiro conhecida sob o nome de slipknstot (ela é fã de Slipknot) e seu trabalho com shit-rap/trap no SoundCloud e Youtube.
+            <br>A artista veio primeiro se popularizando na plataforma Twitter, e em pouco tempo, teve umas de suas composições viralizadas no TikTok. 
+            <br>slipmami teve seu primeiro contato com a música em casa – ouvindo com sua mãe os hits de flashback internacional dos anos 80 e 90. Um pouco depois, conheceu o emocore, cujas temáticas e estéticas ecoam ainda hoje no universo da artista. Aos 20 anos, ela assina com o selo Heavy Baile Sounds (@heavybaile) e lança uma série de singles com beats produzidos por Leo Justi e parceiros como AG Beatz e Vhulto.
+        </p>
+     </div>
+     <div class="card-group" style="width: 25rem;">
+      <div class="card-group">
+        <div class="card">
+          <img class="card-img-top" src="album1.jpg" alt="EP">
+          <div class="card-body">
+            <h5 class="card-title">Gostosa Posturada</h5>
+            <p class="card-text">Primeiro EP lançado em 27 de Outubro de 2021</p>
+            <p class="card-text"><small class="text-muted">2021</small></p>
+          </div>
+        </div>
+        <div class="card-group">
+            <div class="card">
+              <img class="card-img-top" src="twitter.png" alt="twitter">
+              <div class="card-body">
+                <h5 class="card-title">Siga no Twitter!</h5>
+                <a href="https://twitter.com/slipmami" class="btn btn-primary">Twitter</a>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">2022</small>
+              </div>
+            </div>
+            <div class="card">
+              <img class="card-img-top" src="instagram.webp" alt="Instagram">
+              <div class="card-body">
+                <h5 class="card-title">Siga no Instagram!</h5>
+                <a href="https://www.instagram.com/slipmami/" class="btn btn-primary">Instagram</a>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">2022</small>
+              </div>
+            </div>
+            <div class="card">
+              <img class="card-img-top" src="spotify.png" alt="Spotify">
+              <div class="card-body">
+                <h5 class="card-title">Siga no Spotify!</h5>
+                <a href="https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs?si=ZT6P-piGRkOldbKNgX0loQ" class="btn btn-primary">Spotify</a>
+              </div>
+              <div class="card-footer">
+                <small class="text-muted">2022</small>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+</body>
+</html>
